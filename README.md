@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="440" height="400" src="http://tinyimg.io/i/MmtUdwl.png"><br>
-</p>
 
 ## Inspiration
 
@@ -10,10 +7,6 @@ Driver-less cars are an emerging technology which has the potential to impact ma
 With the help of our industry sponsor, Texas Instruments, and our faculty mentor, Dr. David Pan, we hope to make UT Austin the first university in the world to have autonomous delivery for its students!
 
 ## Design Overview and GPIO Ports
-<p align="center"><br>
-  <strong>Top Level Block Diagram</strong><br><br>
-  <img width="550" height="400" src="http://tinyimg.io/i/FkfJGkR.PNG"><br>
-</p><br><br>
 
 <strong><u>GPIO (BeagleBone) to Motor Control</u></strong><br>
 <b>P8_8</b>: Rear Motor (Forward)<br>
@@ -56,7 +49,7 @@ With the help of our industry sponsor, Texas Instruments, and our faculty mentor
   <b>Taylor Vogt</b></a> - Integrated Circuits and Nanotechnology<br>
   <a href="https://www.linkedin.com/in/yueheng-zhang/" style="text-decoration: none">
   <b>Yueheng (Henry) Zhang</b></a> - Software Engineering and Design<br>
-  <a href="https://www.linkedin.com/in/aleksandr-ji-403979128/" style="text-decoration: none">
-  <b>Aleksandr Ji</b></a> - Software Engineering and Design<br>
+  <a href="https://www.linkedin.com/in/aleksandr-dis-403979128/" style="text-decoration: none">
+  <b>Aleksandr Dis</b></a> - Software Engineering and Design<br>
 </p>
 
